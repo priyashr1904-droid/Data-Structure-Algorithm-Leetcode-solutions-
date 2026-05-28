@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
