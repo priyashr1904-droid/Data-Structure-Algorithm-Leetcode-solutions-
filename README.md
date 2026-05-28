@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
