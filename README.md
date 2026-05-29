@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1920-build-array-from-permutation) |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
