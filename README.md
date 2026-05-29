@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
