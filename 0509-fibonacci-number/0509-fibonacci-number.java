@@ -1,9 +1,19 @@
 class Solution {
     public int fib(int n) {
-       if (n == 0) return 0;
-        if (n == 1) return 1;
+       if (n <= 1) {
+            return n;
+        }
         
-        // Recursive relation
-        return fib(n - 1) + fib(n - 2); 
+        int a = 0; // Represents F(n-2)
+        int b = 1; // Represents F(n-1)
+        int sum = 0;
+        
+        for (int i = 2; i <= n; i++) {
+            sum = a + b;
+            a = b;   // Move F(n-1) to F(n-2)
+            b = sum; // Move current sum to F(n-1)
+        }
+        
+        return sum;
     }
 }
