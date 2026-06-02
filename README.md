@@ -29,6 +29,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -57,6 +58,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +95,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -112,4 +117,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
