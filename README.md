@@ -12,6 +12,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -118,6 +119,7 @@
 | [0189-rotate-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
