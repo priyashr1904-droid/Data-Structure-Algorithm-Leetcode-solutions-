@@ -12,6 +12,7 @@
 | [0509-fibonacci-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
@@ -39,6 +40,7 @@
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
 | [1816-truncate-sentence](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1816-truncate-sentence) |
@@ -144,6 +146,7 @@
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +234,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
