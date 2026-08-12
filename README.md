@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0016-3sum-closest) |
@@ -109,6 +110,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -249,6 +251,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0148-sort-list) |
 ## Merge Sort
