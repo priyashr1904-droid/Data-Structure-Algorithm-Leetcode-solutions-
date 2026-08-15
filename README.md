@@ -58,6 +58,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -309,4 +310,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1510-stone-game-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
