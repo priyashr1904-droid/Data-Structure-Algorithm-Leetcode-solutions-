@@ -48,6 +48,7 @@
 | [0015-3sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0152-maximum-product-subarray) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
