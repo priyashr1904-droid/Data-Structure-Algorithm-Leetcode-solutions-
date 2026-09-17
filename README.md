@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0877-stone-game) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
@@ -387,6 +389,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
