@@ -53,6 +53,7 @@
 | [0051-n-queens](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -402,6 +404,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
