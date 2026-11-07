@@ -73,6 +73,7 @@
 | [1816-truncate-sentence](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1816-truncate-sentence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [1882-process-tasks-using-servers](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/priyashr1904-droid/Data-Structure-Algorithm-Leetcode-solutions-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
